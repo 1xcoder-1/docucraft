@@ -148,7 +148,7 @@ s.
 
 ## 📧 Contact
 
-Abdul Mabood - [@your_twitter](https://twitter.com/11xcoder) - your-1xcoder@proton.me
+1xcoder - [twitter](https://twitter.com/11xcoder) - 1xcoder@proton.me
 
 Project Link: [https://github.com/your-username/docucraft](https://github.com/1xcoder/docucraft)
 
