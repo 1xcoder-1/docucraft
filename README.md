@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/AI-Powered-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="AI Powered">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5f0a8b1d-9d3d-4b3d-9d3d-5f0a8b1d9d3d" alt="DocuCraft Banner" width="100%">
-</p>
+
 
 **DocuCraft** is an AI-powered tool that automatically generates beautiful, comprehensive documentation for your code. Simply paste your code, and DocuCraft will create well-structured documentation with JSDoc-style comments and Markdown summaries in seconds.
 
